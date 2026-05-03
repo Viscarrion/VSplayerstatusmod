@@ -1,0 +1,11 @@
+{
+  "type": "code",
+  "modId": "playerstatus",
+  "name": "Player Status",
+  "description": "Shows online players with color-coded status indicators. Red for Recording, Purple for streaming, Green for just chilling, Gray for 'Please Ignore' and Yellow for 'open to rp'.",
+  "authors": ["carrion"],
+  "version": "1.2.8",
+  "dependencies": {
+    "game": "1.19.0"
+  }
+}
